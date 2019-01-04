@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C61F-9024
+
+ Directory of C:\Users\Meghana\Desktop\gitcmd
+
+01/04/2019  02:51 PM    <DIR>          .
+01/04/2019  02:51 PM    <DIR>          ..
+01/04/2019  02:51 PM                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  138,643,357,696 bytes free
